@@ -1,0 +1,7 @@
+[theme]
+base="dark"
+primaryColor="#00E5A8"             # neon green accent
+backgroundColor="#0B1220"          # deep terminal dark
+secondaryBackgroundColor="#0F172A" # panel dark
+textColor="#E6F4F1"                # soft white
+font="sans serif"
