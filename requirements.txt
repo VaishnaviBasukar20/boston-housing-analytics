@@ -5,3 +5,6 @@ plotly
 scikit-learn
 scipy
 shap
+matplotlib
+seaborn
+statsmodels
